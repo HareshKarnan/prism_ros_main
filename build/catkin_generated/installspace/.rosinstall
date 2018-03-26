@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/pi/prism_ros_main/install/setup.sh

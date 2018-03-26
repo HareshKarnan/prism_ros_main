@@ -1,0 +1,8 @@
+prefix=/home/pi/prism_ros_main/devel
+
+Name: motor_comms
+Description: Description of motor_comms
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/pi/prism_ros_main/devel/lib 
+Requires: 
